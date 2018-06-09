@@ -1,0 +1,247 @@
+ID,Type,Item Name,Slot,Rarity,Impact,Range,Stability,Handling,Reload Speed,Rounds / Min,Image
+1,Auto Rifle,Hard Light,Energy,Exotic,21,46,68,75,68,600,Hard_light_icon1.png
+2,Auto Rifle,Suros Regime,Kinetic,Exotic,21,60,62,68,76,600,SUROS_Regime.jpg
+3,Auto Rifle,Sweet Business,Kinetic,Exotic,18,37,46,10,10,360,Sweet_business_icon2.png
+4,Auto Rifle,Duty Bound,Kinetic,Legendary,21,42,45,61,54,600,DutyBoundIcon.jpg
+5,Auto Rifle,Galliard-42,Energy,Legendary,21,42,50,56,47,600,Galliard-42_icon1.png
+6,Auto Rifle,Ghost Primus,Kinetic,Legendary,21,53,42,64,55,600,Ghost_primus_icon1.jpg
+7,Auto Rifle,Guiding Star,Kinetic,Legendary,18,37,47,40,47,720,Guiding_star_icon1.jpg
+8,Auto Rifle,Halfdan-D,Kinetic,Legendary,33,82,28,45,35,360,Halfdan-d_icon1.jpg
+9,Auto Rifle,Hollow Earth,Energy,Legendary,18,32,54,46,52,720,Hollow_earth_icon1.jpg
+10,Auto Rifle,Jiangshi AR4,Energy,Legendary,29,64,50,52,52,450,Jiangshi_ar4_icon1.png
+11,Auto Rifle,Kibou-AR3,Energy,Legendary,29,66,49,46,48,450,
+12,Auto Rifle,Loquitor IV,Kinetic,Legendary,33,78,24,41,41,360,Loquitor_iv_icon1.jpg
+13,Auto Rifle,Martyr's Make,Energy,Legendary,21,51,44,53,47,600,Martyrs_make_icon1.jpg
+14,Auto Rifle,Medley-45,Energy,Legendary,21,54,47,52,41,600,Medley-45_icon1.jpg
+15,Auto Rifle,Null Calamity 9,Energy,Legendary,21,54,36,68,60,600,Null_calamity_9_icon1.jpg
+16,Auto Rifle,Origin Story,Kinetic,Legendary,29,70,46,43,47,450,Origin_story_legendary_icon1.png
+17,Auto Rifle,Orimund's Anvil,Kinetic,Legendary,29,73,51,50,45,450,Orimunds_anvil_icon1.jpg
+18,Auto Rifle,Perseverance,Energy,Legendary,18,35,54,44,51,720,Perseverance_icon1.jpg
+19,Auto Rifle,Positive Outlook,Energy,Legendary,29,70,48,45,49,450,Positive_outlook_icon1.jpg
+20,Auto Rifle,Prosecutor,Energy,Legendary,29,73,48,51,50,450,Prosecutor_icon1.jpg
+21,Auto Rifle,Restoration VIII,Energy,Legendary,21,46,38,55,46,600,Restoration_viii_icon1.jpg
+22,Auto Rifle,Scathelocke,Kinetic,Legendary,21,50,45,66,59,600,Scathelocke_icon1.jpg
+23,Auto Rifle,Solemn Hymn,Energy,Legendary,21,53,40,55,46,600,Solemn_hymn_icon1.jpg
+24,Auto Rifle,The Doubt,Kinetic,Legendary,21,45,42,69,62,600,The_doubt_icon1.jpg
+25,Auto Rifle,The Forward Path,Kinetic,Legendary,21,50,48,72,64,600,The_forward_path_icon1.jpg
+26,Auto Rifle,The Last Breath,Kinetic,Legendary,21,48,49,70,56,600,The_last_breath_icon1.jpg
+27,Auto Rifle,The Number,Energy,Legendary,29,64,46,42,42,450,The_number_icon1.jpg
+28,Auto Rifle,Uriel's Gift,Energy,Legendary,29,70,45,46,46,450,Uriels_gift_icon1.jpg
+29,Auto Rifle,Valakadyn,Energy,Legendary,18,35,52,44,54,720,Valakadyn_icon1.jpg
+30,Pulse Rifle,Graviton Lance,Energy,Exotic,29,55,91,59,61,360,Graviton_lance_icon1.png
+31,Pulse Rifle,Vigilance Wing,Kinetic,Exotic,33,64,64,40,46,530,Vigilance_wing_icon1.png
+32,Pulse Rifle,Agenda 5,Energy,Legendary,27,37,57,66,62,450,Agenda_5_icon1.jpg
+33,Pulse Rifle,Autumn Wind,Kinetic,Legendary,23,34,51,32,41,540,Autumn_wind_icon1.jpg
+34,Pulse Rifle,Cadenza-43,Energy,Legendary,29,42,55,42,42,360,Cadenza-43_icon1.jpg
+35,Pulse Rifle,Darkest Before,Energy,Legendary,23,41,53,34,42,540,Darkest_before_icon1.jpg
+36,Pulse Rifle,Disrespectful Stare,Kinetic,Legendary,33,63,55,30,40,320,Disrespectful_stare_icon1.jpg
+37,Pulse Rifle,Eternal Slumber,Kinetic,Legendary,29,48,64,46,45,360,Eternal_slumber_icon1.jpg
+38,Pulse Rifle,Eystein-D,Kinetic,Legendary,33,66,50,31,39,320,Eystein-d_icon1.jpg
+39,Pulse Rifle,Heart of Time,Energy,Legendary,23,29,48,33,32,540,Heart_of_time_icon1.jpg
+40,Pulse Rifle,Impromptu-49,Energy,Legendary,29,51,47,50,51,360,Impromptu-49_icon1.jpg
+41,Pulse Rifle,Inaugural Address,Energy,Legendary,29,49,60,51,46,390,Inaugural_address_icon1.jpg
+42,Pulse Rifle,Infinite Paths 8,Energy,Legendary,27,37,55,70,64,450,Infinite_paths_8_icon1.jpg
+43,Pulse Rifle,Jorum's Claw,Energy,Legendary,29,54,55,50,49,360,Jorums_claw_icon1.jpg
+44,Pulse Rifle,Last Perdition,Energy,Legendary,29,45,63,44,48,360,Last_perdition_icon1.jpg
+45,Pulse Rifle,Legal Action II,Kinetic,Legendary,33,66,53,32,40,320,Legal_action_ii_icon1.jpg
+46,Pulse Rifle,Lincoln Green,Kinetic,Legendary,23,32,46,30,33,540,Lincoln_green_icon1.jpg
+47,Pulse Rifle,Machina Dei 4,Kinetic,Legendary,33,71,54,32,45,320,Machina_dei_4_icon1.jpg
+48,Pulse Rifle,Nergal PR4,Energy,Legendary,27,32,50,74,54,450,Nergal_pr4_icon1.jpg
+49,Pulse Rifle,Nightshade,Kinetic,Legendary,27,40,59,69,62,450,Nightshade_icon1.jpg
+50,Pulse Rifle,Relentless,Kinetic,Legendary,33,60,54,32,42,320,Relentless_icon1.jpg
+51,Pulse Rifle,Swift Ride,Energy,Legendary,29,43,61,46,46,360,Swift_ride_icon1.jpg
+52,Pulse Rifle,The Time-Worn Spire,Kinetic,Legendary,23,33,54,33,37,540,The_time-worn_spire_icon1.jpg
+53,Pulse Rifle,Three Graves,Kinetic,Legendary,33,68,59,26,37,320,Three_graves_icon1.jpg
+54,Scout Rifle,MIDA Multi-Tool,Kinetic,Exotic,60,50,50,86,82,200,MIDA_multi-tool_icon1.png
+55,Scout Rifle,Polaris Lance,Energy,Exotic,,,,,,,
+56,Scout Rifle,Skyburner's Oath,Energy,Exotic,60,46,55,37,55,200,Skyburners_oath_icon1.png
+57,Scout Rifle,The Jade Rabbit,Kinetic,Exotic,67,82,27,29,59,150,Jade_rabbit_osiris_icon1.png
+58,Scout Rifle,Adverse Possession IX,Energy,Legendary,62,47,50,44,46,180,Adverse_possession_ix_icon1.jpg
+59,Scout Rifle,Black Scorpion-4sr,Energy,Legendary,45,28,54,34,35,260,Black_scorpion-4sr_icon1.jpg
+60,Scout Rifle,Call to Serve,Kinetic,Legendary,62,47,46,47,50,180,Call_to_serve_icon1.jpg
+61,Scout Rifle,Conspirator,Energy,Legendary,60,43,45,68,60,200,Conspirator_icon1.jpg
+62,Scout Rifle,Contingency Plan,Energy,Legendary,45,32,50,28,33,260,Contingency_plan_icon1.jpg
+63,Scout Rifle,Does Not Compute,Kinetic,Legendary,67,64,24,35,43,150,Does_not_compute_icon1.jpg
+64,Scout Rifle,Eternal Blazon,Energy,Legendary,60,40,41,66,61,200,Eternal_blazon_icon1.jpg
+65,Scout Rifle,Frontier Justice,Kinetic,Legendary,67,75,26,32,38,150,Frontier_justice_icon1.jpg
+66,Scout Rifle,Frostmire's Hex,Energy,Legendary,45,34,52,30,40,260,Frostmires_hex_icon1.jpg
+67,Scout Rifle,Garden Progeny 1,Kinetic,Legendary,67,70,33,35,42,150,Garden_progeny_1_icon1.jpg
+68,Scout Rifle,Good Counsel IX,Kinetic,Legendary,67,68,29,37,37,150,Good_counsel_ix_icon1.jpg
+69,Scout Rifle,Haunted Earth,Kinetic,Legendary,67,70,28,32,39,150,Haunted_earth_icon1.jpg
+70,Scout Rifle,Manannan SR4,Energy,Legendary,60,35,46,83,,200,Manannan_sr4_icon1.jpg
+71,Scout Rifle,Metronome-52,Energy,Legendary,62,50,53,44,50,180,Metronome-52_icon1.jpg
+72,Scout Rifle,Nameless Midnight,Kinetic,Legendary,62,46,44,47,50,180,Nameless_midnight_icon1.jpg
+73,Scout Rifle,Pleiades Corrector,Energy,Legendary,60,35,49,74,67,200,Pleiades_corrector_icon1.jpg
+74,Scout Rifle,Purpose,Kinetic,Legendary,60,42,50,72,60,200,Purpose_icon1.jpg
+75,Scout Rifle,Seven-Six-Five,Energy,Legendary,60,39,42,66,61,200,Seven-six-five_icon1.jpg
+76,Scout Rifle,Song of Justice VI,Kinetic,Legendary,67,73,26,36,39,150,Song_of_justice_vi_icon1.jpg
+77,Scout Rifle,Tango-45,Energy,Legendary,62,50,50,59,,180,Tango-45_icon1.png
+78,Scout Rifle,The Dream,Kinetic,Legendary,67,71,31,32,39,150,The_dream_icon1.jpg
+79,Scout Rifle,The End,Energy,Legendary,62,46,47,50,46,180,The_end_icon1.jpg
+80,Scout Rifle,The Guiding Sight,Kinetic,Legendary,67,68,32,34,42,150,The_guiding_sight_icon1.jpg
+81,Scout Rifle,Tone Patrol,Energy,Legendary,62,46,48,44,46,180,Tone_patrol_icon1.jpg
+82,Trace Rifle,Coldheart,Energy,Exotic,6,64,64,42,37,1000,Coldheart_icon1.png
+83,Trace Rifle,Prometheus Lens,Energy,Exotic,6,64,50,42,46,1000,Prometheus_lens_icon1.png
+84,Sidearm,Rat King,Kinetic,Exotic,49,43,61,50,55,300,Rat_king_icon1.png
+85,Sidearm,A Swift Verdict,Energy,Legendary,51,57,46,43,32,260,A_swift_verdict_icon1.jpg
+86,Sidearm,Athelflad-D,Kinetic,Legendary,51,63,37,36,28,260,Athelflad-d_icon1.jpg
+87,Sidearm,Controlling Vision,Kinetic,Legendary,49,37,64,53,40,300,Controlling_vision_icon1.jpg
+88,Sidearm,Dead Man Walking,Energy,Legendary,35,29,60,54,41,450,Dead_man_walking_icon1.jpg
+89,Sidearm,Drang,Energy,Legendary,49,48,70,74,19,300,Drang_icon1.jpg
+90,Sidearm,Eleventh Hour,Energy,Legendary,,30,43,67,60,360,Eleventh_hour_icon1.jpg
+91,Sidearm,Enigma's Draw,Kinetic,Legendary,51,54,48,39,28,260,Enigmas_draw_icon1.jpg
+92,Sidearm,Etana SI4,Energy,Legendary,75,45,80,53,40,415,Etana_si4_icon1.jpg
+93,Sidearm,Eulogy SI4,Energy,Legendary,75,34,79,58,40,491,Eulogy_si4_icon1.jpg
+94,Sidearm,Interregnum XVI,Energy,Legendary,35,28,70,52,45,450,Interregnum_xvi_icon1.jpg
+95,Sidearm,Last Hope,Energy,Legendary,75,41,82,55,37,415,Last_hope_icon1.jpg
+96,Sidearm,Minimum Distance,Kinetic,Legendary,51,55,50,41,29,260,Minimum_distance_icon1.jpg
+97,Sidearm,Peace by Consensus,Kinetic,Legendary,51,59,44,39,24,260,
+98,Sidearm,Swift Solstice,Energy,Legendary,35,29,67,59,45,450,Swift_solstice_icon1.jpg
+99,Sidearm,The Fool's Remedy,Energy,Legendary,35,34,64,63,44,450,The_fools_remedy_icon1.jpg
+100,Sidearm,The Last Dance,Energy,Legendary,75,36,86,57,35,415,The_last_dance_legendary_icon1.png
+101,Sidearm,The Rattler,Energy,Legendary,43,25,45,69,55,360,The_rattler_icon1.jpg
+102,Sidearm,Traveler's Judgment 5,Energy,Legendary,75,45,84,56,40,491,Travelers_judgment_5_icon1.jpg
+103,Sidearm,Urchin-3si,Energy,Legendary,43,24,50,74,49,360,Urchin-3si_icon1.jpg
+104,Sidearm,Vertical Orbit QSm,Kinetic,Legendary,49,40,68,52,35,300,Vertical_orbit_qsm_icon1.jpg
+105,Hand Cannon,Crimson,Kinetic,Exotic,92,60,82,50,64,386,Crimson_icon1.jpg
+106,Hand Cannon,Sturm,Kinetic,Exotic,92,73,37,37,37,110,Sturm_icon1.png
+107,Hand Cannon,Sunshot,Energy,Exotic,78,47,50,92,75,150,Sunshot_icon2.png
+108,Hand Cannon,A Cold Sweat,Energy,Legendary,78,44,67,42,37,180,A_cold_sweat_icon1.jpg
+109,Hand Cannon,Annual Skate,Energy,Legendary,84,46,54,52,44,140,Annual_skate_icon1.jpg
+110,Hand Cannon,Bad News,Kinetic,Legendary,92,60,29,33,32,110,Bad_news_icon1.jpg
+111,Hand Cannon,Better Devils,Kinetic,Legendary,84,46,48,46,46,140,Better_devils_icon1.jpg
+112,Hand Cannon,Crimil's Dagger,Kinetic,Legendary,92,64,31,31,32,110,Crimils_dagger_icon1.jpg
+113,Hand Cannon,D.F.A.,Kinetic,Legendary,84,50,59,48,52,140,
+114,Hand Cannon,Daedalus Code,Energy,Legendary,78,39,41,66,62,150,Daedalus_code_icon1.jpg
+115,Hand Cannon,Dire Promise,Kinetic,Legendary,78,45,50,61,54,150,Dire_promise_icon1.jpg
+116,Hand Cannon,Home for the Lost,Kinetic,Legendary,92,57,26,36,32,110,Home_for_the_lost_icon1.jpg
+117,Hand Cannon,Imset HC4,Energy,Legendary,78,37,46,71,64,150,Imset_hc4_icon1.jpg
+118,Hand Cannon,Jack Queen King 3,Energy,Legendary,80,45,42,73,63,150,Jack_queen_king_3_icon1.jpg
+119,Hand Cannon,Judgment,Kinetic,Legendary,84,50,48,48,46,140,Judgment_icon1.jpg
+120,Hand Cannon,Living Memory,Kinetic,Legendary,84,44,53,47,45,140,Living_memory_icon1.jpg
+121,Hand Cannon,Midnight Coup,Kinetic,Legendary,80,37,46,64,60,150,Midnight_coup_icon1.jpg
+122,Hand Cannon,Minuet-42,Energy,Legendary,84,48,50,42,,140,Minuet-42_icon1.png
+123,Hand Cannon,Nature of the Beast,Energy,Legendary,78,40,65,42,32,180,Nature_of_the_beast_icon1.jpg
+124,Hand Cannon,Older Sister III,Energy,Legendary,84,48,47,52,40,140,Older_sister_iii_icon1.jpg
+125,Hand Cannon,Pribina-D,Kinetic,Legendary,92,60,20,25,35,110,Pribina-d_icon1.jpg
+126,Hand Cannon,Shattered Peace,Energy,Legendary,78,40,42,69,60,150,Shattered_peace_icon1.jpg
+127,Hand Cannon,The Defiant,Energy,Legendary,80,40,41,67,60,150,The_defiant_icon1.jpg
+128,Hand Cannon,The Old Fashioned,Kinetic,Legendary,84,44,55,50,49,140,The_old_fashioned_icon1.jpg
+129,Hand Cannon,The Steady Hand,Kinetic,Legendary,92,64,32,28,28,110,The_steady_hand_icon1.jpg
+130,Hand Cannon,True Prophecy,Kinetic,Legendary,92,62,30,37,30,110,True_prophecy_icon1.jpg
+131,Hand Cannon,West of Sunfall 7,Kinetic,Legendary,78,45,68,42,33,180,West_of_sunfall_7_icon1.jpg
+132,Submachine Gun,Riskrunner,Energy,Exotic,20,55,60,51,42,900,Riskrunner_icon1.png
+133,Submachine Gun,The Huckleberry,Kinetic,Exotic,22,53,42,60,10,750,The_Huckleberry1.jpg
+134,Submachine Gun,Adjudicator,Kinetic,Legendary,25,60,46,29,24,600,Adjudicator_icon1.jpg
+135,Submachine Gun,Antiope-D,Kinetic,Legendary,25,63,39,26,,600,Antiope-d_icon1.jpg
+136,Submachine Gun,Atalanta-D,Kinetic,Legendary,25,52,45,31,27,600,Atalanta-d_icon1.jpg
+137,Submachine Gun,Death Adder,Energy,Legendary,15,36,42,64,33,900,Death_adder_icon1.jpg
+138,Submachine Gun,Escape Velocity,Kinetic,Legendary,15,32,39,73,32,900,Escape_velocity_icon1.jpg
+139,Submachine Gun,Foggy Notion,Energy,Legendary,20,47,50,56,49,900,Foggy_notion_icon1.jpg
+140,Submachine Gun,MIDA Mini-Tool,Energy,Legendary,15,37,59,82,38,900,Mida_mini-tool_icon1.jpg
+141,Submachine Gun,Mob Justice,Energy,Legendary,20,46,44,59,55,900,Mob_justice_icon1.jpg
+142,Submachine Gun,New City,Kinetic,Legendary,20,49,49,57,53,900,New_city_icon1.jpg
+143,Submachine Gun,Out of Options,Energy,Legendary,15,35,38,60,32,900,Out_of_options_icon1.jpg
+144,Submachine Gun,Phosphorus MG4,Energy,Legendary,15,37,45,63,38,900,Phosphorus_mg4_icon1.png
+145,Submachine Gun,Radiant Stardust,Energy,Legendary,15,33,45,66,35,900,Radiant_stardust_icon1.jpg
+146,Submachine Gun,Red Mamba,Energy,Legendary,15,32,41,68,37,900,Red_mamba_icon1.jpg
+147,Submachine Gun,Resonance-42,Energy,Legendary,20,42,48,60,52,900,Resonance-42_icon1.jpg
+148,Submachine Gun,Royal Dispensation II,Energy,Legendary,20,43,54,63,54,900,Royal_dispensation_ii_icon1.jpg
+149,Submachine Gun,Sol Pariah 6,Energy,Legendary,15,38,53,61,36,900,Sol_pariah_6_icon1.jpg
+150,Submachine Gun,Stochastic Variable,Energy,Legendary,15,40,42,55,34,900,Stochastic_variable_icon1.jpg
+151,Submachine Gun,The Conqueror 2,Kinetic,Legendary,20,47,52,56,60,900,The_conqueror_2_icon1.jpg
+152,Submachine Gun,The Hero's Burden,Energy,Legendary,20,50,46,63,58,900,The_heros_burden_icon1.jpg
+153,Submachine Gun,The Showrunner,Kinetic,Legendary,15,35,42,64,34,900,The_showrunner_icon1.jpg
+154,Fusion Rifle,Merciless,Power,Exotic,75,45,39,47,49,,Merciless_icon1.png
+155,Fusion Rifle,Sleeper Simulant,Power,Exotic,41,63,41,42,36,,Sleeper_Simulant_icon1.jpg
+156,Fusion Rifle,Telesto,Power,Exotic,85,32,81,57,82,,Telesto_icon2.jpg
+157,Fusion Rifle,Cartesian Coordinate,Power,Legendary,55,29,33,55,51,,Cartesian_coordinate_icon1.jpg
+158,Fusion Rifle,Conjecture TSc,Power,Legendary,95,54,32,28,24,,Conjecture_tsc_icon1.jpg
+159,Fusion Rifle,Critical Sass,Power,Legendary,55,30,34,52,50,,Critical_sass_icon1.jpg
+160,Fusion Rifle,Elatha FR4,Power,Legendary,95,54,32,29,24,,Elatha_fr4_icon1.jpg
+161,Fusion Rifle,Erentil FR4,Power,Legendary,95,59,30,26,28,,Erentil_fr4_icon1.jpg
+162,Fusion Rifle,Main Ingredient,Power,Legendary,80,63,54,38,32,,Main_ingredient_icon1.jpg
+163,Fusion Rifle,Nox Echo III,Power,Legendary,70,38,48,36,38,,Nox_echo_iii_icon1.jpg
+164,Fusion Rifle,Nox Veneris II,Power,Legendary,70,39,45,36,40,,Nox_veneris_ii_icon1.jpg
+165,Fusion Rifle,Shock and Awe,Power,Legendary,95,49,32,27,24,,Shock_and_awe_icon1.jpg
+166,Fusion Rifle,The Wizened Rebuke,Power,Legendary,95,56,35,30,28,,The_wizened_rebuke_icon1.jpg
+167,Fusion Rifle,Timelines' Vertex,Power,Legendary,70,42,46,42,46,,Timelines_vertex_icon1.jpg
+168,Sniper Rifle,Borealis,Power,Exotic,90,54,52,63,68,72,Borealis_icon1.png
+169,Sniper Rifle,D.A.R.C.I.,Power,Exotic,55,37,78,78,64,140,Darci_icon1.png
+170,Sniper Rifle,A Single Clap,Power,Legendary,70,53,48,47,44,90,A_single_clap_icon1.jpg
+171,Sniper Rifle,Alone as a god,Power,Legendary,55,40,42,69,65,140,Alone_as_a_god_icon1.jpg
+172,Sniper Rifle,Belfry Bounty,Power,Legendary,70,49,43,44,46,90,Belfry_bounty_icon1.jpg
+173,Sniper Rifle,Copperhead-4sn,Power,Legendary,55,32,46,73,64,140,Copperhead-4sn_icon1.jpg
+174,Sniper Rifle,Distant Tumulus,Power,Legendary,55,36,37,67,61,140,Distant_tumulus_icon1.jpg
+175,Sniper Rifle,Elegy-49,Power,Legendary,70,46,46,46,46,90,Elegy-49_icon1.jpg
+176,Sniper Rifle,Eye of Foresight,Power,Legendary,70,46,46,46,46,90,Eye_of_foresight_icon1.jpg
+177,Sniper Rifle,Gentleman Vagabond,Power,Legendary,90,68,36,38,42,72,Gentleman_vagabond_icon1.jpg
+178,Sniper Rifle,Maestro-46,Power,Legendary,90,75,25,32,37,72,Maestro-46_icon1.jpg
+179,Sniper Rifle,Maxim XI,Power,Legendary,70,59,46,50,42,90,Maxim_xi_icon1.jpg
+180,Sniper Rifle,Persuader,Power,Legendary,55,39,42,67,61,140,Persuader_icon1.jpg
+181,Sniper Rifle,Shepherd's Watch,Power,Legendary,70,52,48,44,43,90,Shepherds_watch_icon1.jpg
+182,Sniper Rifle,Show of Force,Power,Legendary,90,73,31,33,36,72,Show_of_force_icon1.jpg
+183,Sniper Rifle,Silicon Neuroma,Power,Legendary,90,77,25,32,34,72,
+184,Sniper Rifle,The Domino,Power,Legendary,70,53,49,47,46,90,The_domino_icon1.jpg
+185,Sniper Rifle,The Long Walk,Power,Legendary,90,80,28,35,41,72,The_long_walk_icon1.jpg
+186,Sniper Rifle,The Mornin' Comes,Power,Legendary,70,50,47,47,45,90,The_mornin_comes_icon1.jpg
+187,Sniper Rifle,Veleda-D,Power,Legendary,90,78,24,26,33,72,Veleda-d_icon1.jpg
+188,Sniper Rifle,Widow's Bite,Power,Legendary,55,36,42,69,60,140,Widows_bite_icon1.jpg
+189,Shotgun,Legend of Acrius,Power,Exotic,85,100,82,19,,45,Legend_of_acrius_icon1.png
+190,Shotgun,Tractor Cannon,Power,Exotic,65,19,82,46,24,84,Tractor_cannon_icon1.png
+191,Shotgun,A Sudden Death,Power,Legendary,80,32,33,32,39,45,A_sudden_death_icon1.jpg
+192,Shotgun,Baligant,Power,Legendary,80,28,29,30,37,45,Baligant_icon1.jpg
+193,Shotgun,Deadpan Delivery,Power,Legendary,80,27,31,33,37,45,Deadpan_delivery_icon1.jpg
+194,Shotgun,"First In, Last Out",Power,Legendary,70,62,46,64,50,55,First_in%2C_last_out_icon1.jpg
+195,Shotgun,Good Bone Structure,Power,Legendary,70,60,50,69,46,55,Good_bone_structure_icon1.jpg
+196,Shotgun,Gravity Slingshot,Power,Legendary,80,24,28,35,35,45,Gravity_slingshot_icon1.jpg
+197,Shotgun,Gunnora's Axe,Power,Legendary,70,70,54,68,53,55,Gunnoras_axe_icon1.jpg
+198,Shotgun,Hawthorne's Field-Forged Shotgun,Power,Legendary,65,50,37,64,64,90,Hawthornes_field-forged_shotgun_icon1.jpg
+199,Shotgun,Perfect Paradox,Power,Legendary,65,39,42,49,68,100,Perfect_paradox_icon1.jpg
+200,Shotgun,Quitclaim Shotgun III,Power,Legendary,80,29,29,30,38,45,Quitclaim_shotgun_iii_icon1.jpg
+201,Shotgun,Retrofuturist,Power,Legendary,65,46,42,68,60,90,Retrofuturist_icon1.jpg
+202,Shotgun,Somerled-D,Power,Legendary,80,30,28,35,39,45,Somerled-d_icon1.jpg
+203,Shotgun,The Deicide,Power,Legendary,65,34,34,44,67,100,The_deicide_icon1.jpg
+204,Shotgun,Unification VII,Power,Legendary,70,64,42,68,51,55,Unification_vii_icon1.jpg
+205,Shotgun,Zenith of Your Kind,Power,Legendary,65,39,45,46,71,100,Zenith_of_your_kind_icon1.jpg
+206,Sword,Complex Solution,Power,Legendary,62,46,,,,,Complex_solution_icon1.jpg
+207,Sword,Crown-Splitter,Power,Legendary,84,64,,,,,Crown-splitter_icon1.jpg
+208,Sword,Double-Edged Answer,Power,Legendary,59,64,,,,,Double-edged_answer_icon1.jpg
+209,Sword,Eternity's Edge,Power,Legendary,62,55,,,,,Eternitys_edge_icon1.jpg
+210,Sword,Future Safe 10,Power,Legendary,62,46,,,,,Future_safe_10_icon1.jpg
+211,Sword,Honor's Edge,Power,Legendary,62,46,,,,,Honors_edge_icon1.jpg
+212,Sword,It Stared Back,Power,Legendary,62,46,,,,,It_stared_back_icon1.jpg
+213,Sword,Negative Space,Power,Legendary,62,46,,,,,Negative_space_icon1.jpg
+214,Sword,Quickfang,Power,Legendary,40,28,,,,,Quickfang_icon1.jpg
+215,Sword,Steel Sybil Z-14,Power,Legendary,62,46,,,,,Steel_sybil_z-14_icon1.jpg
+216,Sword,Traitor's Fate,Power,Legendary,62,46,,,,,Traitors_fate_icon1.jpg
+217,Sword,Unspoken Promise,Power,Legendary,62,46,,,,,Unspoken_promise_icon1.jpg
+218,Sword,Zephyr,Power,Legendary,56,55,,,,,Zephyr_icon1.png
+219,Grenade Launcher,Fighting Lion,Energy,Exotic,50,55,78,100,55,72,Fighting_lion_icon1.png
+220,Grenade Launcher,The Colony,Power,Exotic,20,28,82,82,64,140,The_colony_icon1.jpg
+221,Grenade Launcher,The Prospector,Power,Exotic,10,64,42,55,32,165,The_prospector_icon1.png
+222,Grenade Launcher,Acantha-D,Power,Legendary,15,47,28,31,36,150,Acantha-d_icon1.jpg
+223,Grenade Launcher,Berenger's Memory,Power,Legendary,15,53,32,24,29,150,Berengers_memory_icon1.jpg
+224,Grenade Launcher,Flash and Thunder,Power,Legendary,55,78,36,68,71,90,Flash_and_thunder_icon1.jpg
+225,Grenade Launcher,I Am Alive,Power,Legendary,30,41,53,51,46,120,I_am_alive_icon1.jpg
+226,Grenade Launcher,Interference VI,Power,Legendary,30,36,44,46,46,120,Interference_vi_icon1.jpg
+227,Grenade Launcher,Memory Interdict,Power,Legendary,30,35,44,48,48,120,Memory_interdict_icon1.jpg
+228,Grenade Launcher,Orewing's Maul,Power,Legendary,55,77,31,69,74,90,Orewings_maul_icon1.jpg
+229,Grenade Launcher,Orthrus,Power,Legendary,40,49,58,68,60,100,Orthrus_icon1.jpg
+230,Grenade Launcher,Play of the Game,Power,Legendary,30,45,42,40,51,120,Play_of_the_game_icon1.jpg
+231,Grenade Launcher,Sunrise GL4,Power,Legendary,45,49,60,62,60,100,Sunrise_gl4_icon1.jpg
+232,Grenade Launcher,The Day's Fury,Power,Legendary,40,46,60,68,65,100,The_days_fury_icon1.jpg
+233,Grenade Launcher,Truthteller,Power,Legendary,55,77,26,72,74,,Truthteller_icon1.jpg
+234,Grenade Launcher,Wicked Sister,Power,Legendary,30,40,43,46,47,120,Wicked_sister_icon1.jpg
+235,Rocket Launcher,The Wardcliff Coil,Power,Exotic,55,100,55,82,55,60,The_wardcliff_coil_icon1.png
+236,Rocket Launcher,Blue Shift,Power,Legendary,95,49,62,67,45,15,Blue_shift_icon1.jpg
+237,Rocket Launcher,Classical-42,Power,Legendary,75,57,49,44,44,20,Classical-42_icon1.jpg
+238,Rocket Launcher,Countess SA/2,Power,Legendary,75,53,49,47,44,20,Countess_sa2_icon1.jpg
+239,Rocket Launcher,Curtain Call,Power,Legendary,55,71,31,26,64,25,Curtain_call_icon1.jpg
+240,Rocket Launcher,Hoosegow,Power,Legendary,75,58,47,44,50,20,Hoosegow_icon1.jpg
+241,Rocket Launcher,Morrigan-D,Power,Legendary,65,63,46,40,36,15,Morrigan-d_icon1.jpg
+242,Rocket Launcher,Mos Epoch III,Power,Legendary,55,76,29,26,57,25,Mos_epoch_iii_icon1.jpg
+243,Rocket Launcher,Pentatonic-48,Power,Legendary,75,58,46,47,48,20,Pentatonic-48_icon1.jpg
+244,Rocket Launcher,Sins of the Past,Power,Legendary,95,50,63,70,42,15,Sins_of_the_past_icon1.jpg
+245,Rocket Launcher,Tiebreaker,Power,Legendary,55,76,30,26,60,25,Tiebreaker_icon1.jpg
+246,Rocket Launcher,Zenobia-D,Power,Legendary,65,61,47,45,28,15,Zenobia-d_icon1.jpg

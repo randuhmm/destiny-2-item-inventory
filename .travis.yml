@@ -1,0 +1,5 @@
+language: generic
+
+sudo: required
+
+script: tests/run.sh
